@@ -1,4 +1,4 @@
-# APPLE-Stock-Data-Extracting-Using-yfinance
+# APPLE-Stock-Data1-Extracting-Using-yfinance
 
 A company's stock share is a piece of the company more precisely:
 
